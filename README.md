@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-cle-de-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for La Clé De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-cle-de-mon-cur/) |
+| **Get License** | [Secure Licensing Rights for La Clé De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-cle-de-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `76131e83a6a28112165590bb9c0fe261dd2723d33e79eb7fe4cb0715253207fb` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
