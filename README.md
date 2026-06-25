@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-cle-de-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for La Clé De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-cle-de-mon-cur/) |
+| **Get License** | [Music Rights & Licensing for La Clé De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-cle-de-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Regarde-moi dans les yeux, under the city lights,
+> T'es la seule que je veux pour enflammer ma night.
+> Un seul sourire de toi et tout mon corps frissonne,
+> T'as la clé de mon cœur, au rythme qui résonne.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
